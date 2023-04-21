@@ -17,13 +17,12 @@ In the meantime, below is an example of what you can do with just a few lines of
 """
 
 def main():
-    st.title("Meine Vorstellung")
-    st.write("Hallo! Ich bin ChatGPT, ein großes Sprachmodell, das von OpenAI entwickelt wurde. Ich wurde trainiert, um auf eine Vielzahl von Fragen und Anfragen zu antworten, und ich bin hier, um Ihnen zu helfen!")
-    
-    st.write("Ein paar Dinge, die Sie über mich wissen sollten:")
-    st.write("- Ich bin auf einer Vielzahl von Themen geschult, von Wissenschaft und Technologie bis hin zu Kunst und Unterhaltung.")
-    st.write("- Ich bin immer höflich und respektvoll.")
-    st.write("- Ich kann in mehreren Sprachen kommunizieren, darunter Englisch, Spanisch, Französisch, Deutsch und viele mehr.")
+    st.title("Hi, ich bin Stella!")
+    st.write("Ein paar Dinge, die ihr über mich wissen solltet:")
+
+    st.write("Ich bin 22 Jahre alt und studiere Wirtschaftsinformatik im 2. Semester.")
+    st.write("- Ich bin gebürtige Hamburgerin und habe portugiesische Wurzeln.")
+    st.write("- Ich habe eine große Schwester und einen Kater.")
     
 if __name__ == '__main__':
     main()
