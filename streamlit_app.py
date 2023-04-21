@@ -12,7 +12,6 @@ def main():
     st.write("Ich bin 22 Jahre alt und studiere Wirtschaftsinformatik im 2. Semester.")
     st.write("- Ich bin gebürtige Hamburgerin und habe portugiesische Wurzeln.")
     st.write("- Ich habe eine große Schwester und einen Kater.")
-    st.image("file:///Users/stellapais/Downloads/IMG_0058.JPG")
 
     
 if __name__ == '__main__':
