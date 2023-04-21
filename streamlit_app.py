@@ -12,7 +12,8 @@ def main():
     st.write("Ich bin 22 Jahre alt und studiere Wirtschaftsinformatik im 2. Semester.")
     st.write("- Ich bin gebürtige Hamburgerin und habe portugiesische Wurzeln.")
     st.write("- Ich habe eine große Schwester und einen Kater.")
-    st.image("https://en.wikipedia.org/wiki/Minnie_Mouse#/media/File:Minnie_Mouse_Duckipedia.png")
+    st.image("https://picsum.photos/200")
+
 
     
 if __name__ == '__main__':
